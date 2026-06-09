@@ -73,7 +73,7 @@
 
 ---
 
-![Cluster overview](./diagrams/cluster-overview.svg)
+![Cluster overview](./cluster-overview.svg)
 
 ## 🔐 Access Model
 
